@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46398290822",
+    "project_id": "emosyncapp",
+    "storage_bucket": "emosyncapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46398290822:android:06777789290bd08a928a07",
+        "android_client_info": {
+          "package_name": "com.example.emosync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8bUWNiKqy4c_BvyENMc3-_OQQG3Rc14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
